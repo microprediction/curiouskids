@@ -2,8 +2,7 @@
 
 # Curious Kids 
 
-Just a bunch of conversation starters. 
-Pull requests are welcomed. 
+Just a bunch of conversation starters. Intended for interactive use with kids. 
 
 ### Mixed Problems
 
@@ -20,5 +19,9 @@ Pull requests are welcomed.
 - [13k](./13k)
 - [13l](./13l)
 
+
+
+
+Pull requests are welcomed. 
 
 
