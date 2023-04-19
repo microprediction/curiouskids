@@ -1,6 +1,6 @@
 
 
-# Curious Kids 
+# Curious Kids (view as [web page](https://microprediction.github.io/curiouskids/))
 
 Just a bunch of conversation starters. Intended for interactive use with kids. 
 
