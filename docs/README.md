@@ -4,7 +4,15 @@
 
 Just a bunch of conversation starters. Intended for interactive use with kids. 
 
-### Mixed Problems
+### Pretty friendly
+
+- [10a](./10a)
+- [10b](./10b)
+- [10c](./10c)
+- [10d](./10d)
+- [10e](./10e)
+
+### A little more advanced
 
 - [13a](./13a)
 - [13b](./13b)
