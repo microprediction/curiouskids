@@ -1,4 +1,9 @@
 
+Due: Jul 30th
+
+
+# Questions
+
 
 1. Solve the system of equations:
    2x^2 - 3y = 20
