@@ -1,5 +1,9 @@
+Due: Aug 9th before Scando! 
+
+
 Comprehension, statistics 
 
+# Questions
 
 1. Solve for x: 3x - 7 = 2x + 1
 2. Solve for x: 1.5x = 7.5
