@@ -1,3 +1,9 @@
+Due: Aug 5th
+
+
+# Questions
+
+
 1. Solve the system of equations:
    4x^2 + 3y^2 = 28
    2x - y = 6
