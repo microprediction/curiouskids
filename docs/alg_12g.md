@@ -1,3 +1,11 @@
+
+
+Due: Aug 1st
+
+
+# Questions
+
+
 These are a tad harder. 
 
 1. Solve the system of equations:
