@@ -1,6 +1,12 @@
 # Algebra test prep
 
 
+Due: Jul 26th
+
+
+# Questions
+
+
 1. Solve the system of equations:
    3x + 4y = 17
    2x - 3y = 6
