@@ -1,3 +1,9 @@
+Due: Aug 8th
+
+
+# Questions
+
+
 Comprehension and statistics
 
 1. Solve for x: x + 3.5 = 10.2
