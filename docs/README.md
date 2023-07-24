@@ -27,6 +27,23 @@ Just a bunch of conversation starters. Intended for interactive use with kids.
 - [13k](./13k)
 - [13l](./13l)
 
+### Algebra test prep (~ 12yrs)
+
+- [alg_12a.md](./alg_12a.md)
+- [alg_12b.md](./alg_12b.md)
+- [alg_12c.md](./alg_12c.md)
+- [alg_12d.md](./alg_12d.md)
+- [alg_12e.md](./alg_12e.md)
+- [alg_12f.md](./alg_12f.md)
+- [alg_12g.md](./alg_12g.md)
+- [alg_12h.md](./alg_12h.md)
+- [alg_12i.md](./alg_12i.md)
+- [alg_12j.md](./alg_12j.md)
+- [alg_12k.md](./alg_12k.md)
+- [alg_12l.md](./alg_12l.md)
+- [alg_12m.md](./alg_12m.md)
+- [alg_12n.md](./alg_12n.md)
+- [alg_12o.md](./alg_12o.md)
 
 
 
