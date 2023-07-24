@@ -1,5 +1,9 @@
 More boring questions for school algebra prep ... sorry
 
+Due: Jul 25th
+
+
+# Question
 
 
 1. Simplify the following expression: `3(2x^2 - 4x) - 5(3x^2 + 2x)` and express in standard form.
